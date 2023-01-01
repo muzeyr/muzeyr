@@ -15,6 +15,6 @@ A Publisher, Trainer & Developer, working on Enterprise and open source Technolo
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started youtube channel and now i have 1000+ videos and teaching different group of developers online free.
 - 📫 How to reach me: muzeyr@gmail.com
-- 📝[Resume](https://uzeyrozcan.pwd)
+- 📝[Resume](https://uzeyrozcan.pw)
 - I have different application published to [Know More About apps](https://uzeyrozcan.pw)
  
