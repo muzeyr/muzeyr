@@ -12,8 +12,7 @@ A Publisher, Trainer & Developer, working on Enterprise and open source Technolo
 - 👨🏽‍💻 I’m currently working on full stack javascript technologies. 
 - 🌱 I’m currently learning GraphQL and Kubernetes and working on Learning Portal project (Personal App)
 - 🤔 I provide training to developers on javascript and Full stack technologies
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started youtube channel and now i have 1000+ videos and teaching different group of developers online free.
+- 💬 Ask me about anything, I am happy to help;  
 - 📫 How to reach me: muzeyr@gmail.com
 - 📝[Resume](https://uzeyrozcan.pw)
 - I have different application published to [Know More About apps](https://uzeyrozcan.pw)
