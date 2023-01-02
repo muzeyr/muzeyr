@@ -26,11 +26,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://github.com/muzeyr/muzeyr/webpack.png"></code>
-<code><img height="20" src="https://github.com/muzeyr/muzeyr/typescript.png"></code>
-<code><img height="20" src="https://github.com/muzeyr/muzeyr/angular.png"></code>
-<code><img height="20" src="https://github.com/muzeyr/muzeyr/nestjs.png"></code>
-<code><img height="20" src="https://github.com/muzeyr/muzeyr/docker.png"></code>
-<code><img height="20" src="https://github.com/muzeyr/muzeyr/k8s.png"></code>
+<code><img height="20" src="https://github.com/muzeyr/muzeyr/blob/main/webpack.png"></code>
+<code><img height="20" src="https://github.com/muzeyr/muzeyr/blob/main/typescript.png"></code>
+<code><img height="20" src="https://github.com/muzeyr/muzeyr/blob/main/angular.png"></code>
+<code><img height="20" src="https://github.com/muzeyr/muzeyr/blob/main/nestjs.png"></code>
+<code><img height="20" src="https://github.com/muzeyr/muzeyr/blob/main/docker.png"></code>
+<code><img height="20" src="https://github.com/muzeyr/muzeyr/blob/main/k8s.png"></code>
 
             
