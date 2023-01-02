@@ -1,10 +1,10 @@
 # Hey, I'm Uzeyr (@muzeyr)
 
 
- Trainer & Developer, working on Enterprise and open source Technologies JavaScript frameworks (React Angular 2.x), I work with client side and server side javascript programming which includes node js or any other frameworks Currently working with JavaScript framework Angular,React & Node js 🚀 with Graphql 🎉.
-
-
-  <img align="right" alt="GIF" width="400" src="https://github.com/muzeyr/muzeyr/portflio.gif" />
+What started as a hobby in high-school led to 13+ years of experience in software and web development, 
+of which 8+ years professional. Self-motivated Full Stack Engineer with extensive experience in modern technologies.
+Interested in Node(Express,Nest JS) and Agile methodologies, experienced in Scrum and Kanban, and played major roles in complex large-scale projects.
+  <img align="right" alt="GIF" width="400" src="https://github.com/muzeyr/muzeyr/blob/main/portflio.gif" />
 
   
 **Talking about Personal Stuffs:**
