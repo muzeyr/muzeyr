@@ -4,7 +4,7 @@
 A Publisher, Trainer & Developer, working on Enterprise and open source Technologies JavaScript frameworks (React Angular 2.x), I work with client side and server side javascript programming which includes node js or any other frameworks Currently working with JavaScript framework Angular,React & Node js 🚀 with Graphql 🎉.
 
 
-  <img align="right" alt="GIF" width="400" src="https://github.com/muzeyr/muzeyr/profile.gif" />
+  <img align="right" alt="GIF" width="400" src="https://github.com/muzeyr/muzeyr/portflio.gif" />
 
   
 **Talking about Personal Stuffs:**
