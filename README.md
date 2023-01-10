@@ -17,6 +17,7 @@ and working on Learning Portal project (Personal App)
 - 📫 How to reach me: muzeyr@gmail.com
 - 📝[Resume](https://uzeyrozcan.pw)
 - I have different application published to [Know More About apps](https://uzeyrozcan.pw)
+- 🌱 AWS (CloudWatch Logs,EC2,RDS,Route 53,Amplify,GraphQL API )
 
 
 **Languages and Tools:**
