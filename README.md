@@ -10,7 +10,7 @@ Interested in Node(Express,Nest JS) and Agile methodologies, experienced in Scru
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on full stack javascript technologies. 
-- 🌱 I’m currently learning GraphQL and Kubernetes 
+- 🌱 Learning GraphQL and Kubernetes 
 and working on Learning Portal project (Personal App)
 - 🤔 I provide training to developers on javascript and Full stack technologies
 - 💬 Ask me about anything, I am happy to help;  
