@@ -1,9 +1,9 @@
 # Hey, I'm Uzeyr (@muzeyr)
 
 
-What started as a hobby in high-school led to 13+ years of experience in software and web development, 
-of which 8+ years professional. Self-motivated Full Stack Engineer with extensive experience in modern technologies.
-Interested in Node(Express,Nest JS) and Agile methodologies, experienced in Scrum and Kanban, and played major roles in complex large-scale projects.
+I have 15 years of hands-on experience as a Software Engineer developing projects using Node JS (Express, Nest, Lambda) and Java (Spring, SpringBoot).
+In addition, I have extensive experience working with PostgreSQL, MySQL, MongoDB, and Oracle databases. I am also familiar with AWS cloud systems and AGILE Scrum methodologies.
+I have worked in various industries, including Ecommerce, Energy, and Warehouse, and I am dedicated to keeping up-to-date with the latest industry practices. My proficiency in basic AWS, DevOps on Cloud, GitLab, Jenkins, and Docker, combined with my expertise in microservices architecture using Node JS and Java frameworks, makes me a valuable asset to any team looking to build modern and scalable systems.
   <img align="right" alt="GIF" width="400" src="https://github.com/muzeyr/muzeyr/blob/main/portflio.gif" />
 
   
@@ -17,7 +17,13 @@ and working on Learning Portal project (Personal App)
 - 📫 How to reach me: muzeyr@gmail.com
 - 📝[Resume](https://uzeyrozcan.pw)
 - I have different application published to [Know More About apps](https://uzeyrozcan.pw)
-- 🌱 AWS (CloudWatch Logs,EC2,RDS,Route 53,Amplify,GraphQL API )
+- 🌱 AWS Certified (CloudWatch Logs,EC2,RDS,Route 53,Amplify,GraphQL API )
+
+** Certificate
+[AWS Certified Developer – Associate](https://www.credly.com/badges/532cad0d-7c88-4d96-be62-7e72ce82dca4) 
+[TypeScript for Node.js Developers](https://www.linkedin.com/learning/certificates/9f5934580688f6436a12da8c8e5217d9354a22885c27cb0b62d878f00747044d)
+[React.js Essential Training](https://www.linkedin.com/learning/certificates/956efb87b48af9f4f757fc11712c41a6ba97a119caad4c31cb207475b189706a),
+[Learning Amazon Web Services (AWS) for Developers](https://www.linkedin.com/learning/certificates/956efb87b48af9f4f757fc11712c41a6ba97a119caad4c31cb207475b189706a)
 
 
 **Languages and Tools:**
