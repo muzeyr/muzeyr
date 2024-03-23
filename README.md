@@ -4,8 +4,7 @@
 I have 15 years of hands-on experience as a Software Engineer developing projects using Node JS (Express, Nest, Lambda) and Java (Spring, SpringBoot).
 In addition, I have extensive experience working with PostgreSQL, MySQL, MongoDB, and Oracle databases. I am also familiar with AWS cloud systems and AGILE Scrum methodologies.
 I have worked in various industries, including Ecommerce, Energy, and Warehouse, and I am dedicated to keeping up-to-date with the latest industry practices. My proficiency in basic AWS, DevOps on Cloud, GitLab, Jenkins, and Docker, combined with my expertise in microservices architecture using Node JS and Java frameworks, makes me a valuable asset to any team looking to build modern and scalable systems.
-  <img align="right" alt="GIF" width="400" src="https://github.com/muzeyr/muzeyr/blob/main/portflio.gif" />
-
+  
   
 **Talking about Personal Stuffs:**
 
